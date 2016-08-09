@@ -1,0 +1,27 @@
+fly:
+    node: "blendyperks.fly"
+    timeLeft: 0
+weather:
+    node: "blendyperks.weather"
+    timeLeft: 0
+allpotions:
+    node: "blendyperks.potion.*"
+    timeLeft: 0
+nightvision:
+    node: "blendyperks.potion.night_vision"
+    timeLeft: 0
+speed:
+    node: "blendyperks.potion.speed"
+    timeLeft: 0
+glowing:
+    node: "blendyperks.potion.glowing"
+    timeLeft: 0
+fireresistance:
+    node: "blendyperks.potion.fire_resistance"
+    timeLeft: 0
+luck:
+    node: "blendyperks.potion.luck"
+    timeLeft: 0
+haste:
+    node: "blendyperks.potion.fast_digging"
+    timeLeft: 0

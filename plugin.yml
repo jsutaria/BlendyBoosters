@@ -1,0 +1,10 @@
+name: BlendyBoosters
+main: com.jainilsutaria.blendyboosters.BlendyBoosters
+version: 1.0
+commands:
+    booster:
+        description: Adds time to boosters
+        usage: /<command> <booster> <time>
+permissions:
+    booster.add:
+        default: op
